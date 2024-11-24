@@ -60,7 +60,7 @@ const styles = StyleSheet.create({
 	trackArtworkImage: {
 		width: 50,
 		height: 50,
-		borderRadius: 0,
+		borderRadius: 8,
 	},
 	trackTitleText: {
 		...defaultStyles.text,
